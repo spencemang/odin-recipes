@@ -1,0 +1,18 @@
+html {
+    font-family: 'PT Sans', sans-serif;
+}
+img.one {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:550px;
+    width:auto;}
+
+li {
+    margin: 10px 0;
+
+}
+
+h1 {
+        text-align: center;
+    }
